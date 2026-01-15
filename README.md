@@ -1,4 +1,10 @@
-# Importador de Queries para Metabase via API
+<div align="center">
+  <img alt="Logo pessoal do Alexandre" src="./.github/assets/logo.png" width="160" />
+
+  <h1 align="center">Importador de Queries para Metabase via API</h1>
+
+</div>
+
 
 Ferramenta em Node.js para importar em massa perguntas (cards) do Metabase a partir de um arquivo `queries.json` bruto, utilizando a API do Metabase autenticada por API Key. Ideal para recriar queries nativas (SQL) em uma nova instância sem cadastro manual.
 
@@ -240,3 +246,8 @@ ts-node import-queries.ts
 - Administração de API Keys e cards (questions) no Metabase.
 
 ---
+<p align="center">
+  <a href="https://portfolioalxdelira.vercel.app/" target="_blank" rel="noreferrer">
+    <img src="./.github/assets/footer.png" alt="Banner com link para o portfólio" width="100%" />
+  </a>
+</p>

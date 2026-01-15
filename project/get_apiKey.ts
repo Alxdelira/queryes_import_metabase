@@ -39,7 +39,7 @@ async function createCardFromItem(item: QueryItem) {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
-      'X-API-Key': API_KEY,
+      'X-API-Key': API_KEY || '',
     },
     body: JSON.stringify(body),
   });
