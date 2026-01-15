@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo pessoal do Alexandre" src="./.github/assets/logo.png" width="160" />
+  <img alt="Logo pessoal do Alexandre" src="https://github.com/Alxdelira/Alxdelira/blob/main/.github/assets/logo.png" width="160" />
 
   <h1 align="center">Importador de Queries para Metabase via API</h1>
 
@@ -248,6 +248,6 @@ ts-node import-queries.ts
 ---
 <p align="center">
   <a href="https://portfolioalxdelira.vercel.app/" target="_blank" rel="noreferrer">
-    <img src="./.github/assets/footer.png" alt="Banner com link para o portfólio" width="100%" />
+    <img src="https://github.com/Alxdelira/Alxdelira/blob/main/.github/assets/footer.png" alt="Banner com link para o portfólio" width="100%" />
   </a>
 </p>
